@@ -44,19 +44,11 @@ Meta element is an empty element so it doesnt have a closing tag, it uses attrib
 
 * So if you want to type one of those special characters you must use one of the escape codes, like &lt that is left angled bracket.
 
-# HTML5 Layout
+## HTML5 Layout
 
-HTML5 introduced new elements that allows you to divide up parts of the page, and they are named to indicate their purpose.
+HTML5 introduced new elements that allows you to divide up parts of the page, and they are named to indicate their purpose, elements examples:
 
-Main parts of the new HTML5 code is: 
-
-> < nav>;it contains major navigational blocks on the site
-
-> < article>,It's a container to put text in, like a paragraph.
-
-> < div>, its still important to use this to group together related elements.
-
-> < footer>, usually contains info like copyright and trademarks
+> < nav>;it contains major navigational blocks on the site, < article>,It's a container to put text in, like a paragraph, < div>,< footer>, usually contains info like copyright and trademarks
 
 * We can help older browsers understand HTML5 by using a simple Javascript
 
@@ -73,8 +65,6 @@ Main parts of the new HTML5 code is:
 # JavaScript: Introduction & Ch1: ABC of Programming
 
 * You need to know the vocabulary and structure of sentences in JS just like any new language you learn.
-
-* You can access and modify the content of the HTML webpage using javascript, program rules and instructions for the browser to follow and react to the events of the browser or the user.
 
 * jQuery helps with inconsistencies among different browsers.
 
