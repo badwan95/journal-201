@@ -9,7 +9,7 @@
 
 | Read Part                    |       Topic name and link
 -------------------------------|-----------------------------------
-| Read-1                       | [Intro to HTML and JavaScript](https://badwan95.github.io/reading-notes/class/class-01.md)
+| Read-1                       | [Intro to HTML and JavaScript](https://badwan95.github.io/reading-notes/class/class-01)
 | Read-2                       |
 | Read-3                       |
 | Read-4                       |
