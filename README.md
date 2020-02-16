@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-This is the table of content for the reading material:
+This is the ***Table of Content*** for the reading material:
 
 1-
 

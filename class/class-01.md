@@ -104,7 +104,7 @@ and many many more questions that help you define your target demographic, and i
 
 * Differentiate between information using size, color and style, also you can use grouping and similarity to help simplify the information you present.
 
-# JavaScript: Introduction & CH1: ABC of Programming
+# JavaScript: Introduction & Ch1: ABC of Programming
 
 You need to know the vocabulary and structure of sentences in JS just like any new language you learn.
 
