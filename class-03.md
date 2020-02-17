@@ -32,7 +32,7 @@
 
 * Switch statements can be used instead of using many "else if" in if statements, and its faster since if statements check for the code even if the condition is not met, while switch statement breaks the code after a condition is met, an example:
 
-''' 
+```
 switch (level) {
  case 1: 
  msg = 'Good luck on the first test' ;
@@ -45,7 +45,7 @@ switch (level) {
  break; 
 default: msg = 'Good luck!'; 
 break; 
-'''
+```
 * **Type coercion:** If you use a data type that Javascript did not expect, it can convert data types behind the scenes
 
 * Javascript is **weak typing** language because it does not require the user to specify the type of data in a variable, unlike other languages that require to do so, thats called **strong typing**
