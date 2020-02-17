@@ -11,7 +11,7 @@
 -------------------------------|-----------------------------------
 | Read-1                       | [Intro to HTML and JavaScript](https://badwan95.github.io/reading-notes/class-01)
 | Read-2                       | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://badwan95.github.io/reading-notes/class-02)
-| Read-3                       |
+| Read-3                       |[HTML Lists, CSS Boxes, JS Control Flow](https://badwan95.github.io/reading-notes/class-03)
 | Read-4                       |
 | Read-5                       |
 | Read-6                       |
