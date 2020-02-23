@@ -15,7 +15,7 @@
 | Read-4                       |[HTML Links, CSS Layout, JS Functions](https://badwan95.github.io/reading-notes/class-04)
 | Read-5                       |[HTML Images, CSS Color & Text](https://badwan95.github.io/reading-notes/class-05)
 | Read-6                       |[JS Object Literals; The DOM](https://badwan95.github.io/reading-notes/class-06)
-| Read-7                       |
+| Read-7                       |[HTML Tables; JS Constructor Functions](https://badwan95.github.io/reading-notes/class-07)
 | Read-8                       |
 | Read-9                       |
 | Read-10                      |
