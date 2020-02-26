@@ -18,7 +18,7 @@
 | Read-7                       |[HTML Tables; JS Constructor Functions](https://badwan95.github.io/reading-notes/class-07)
 | Read-8                       |[More CSS Layout](https://badwan95.github.io/reading-notes/class-08)
 | Read-9                       |[Forms and Events](https://badwan95.github.io/reading-notes/class-09)
-| Read-10                      |
+| Read-10                      |[JS Debugging](https://badwan95.github.io/reading-notes/class-10)
 | Read-11                      |
 | Read-12                      |
 | Read-13                      |
