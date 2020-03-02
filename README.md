@@ -20,8 +20,7 @@
 | Read-9                       |[Forms and Events](https://badwan95.github.io/reading-notes/class-09)
 | Read-10                      |[JS Debugging](https://badwan95.github.io/reading-notes/class-10)
 | Read-11                      |[Assorted Topic](https://badwan95.github.io/reading-notes/class-11)
-| Read-12                      |
-| Read-11                      |[Docs for the HTML <canvas> Element & Chart.js](https://badwan95.github.io/reading-notes/class-12)
+| Read-12                      |[Docs for the HTML <canvas> Element & Chart.js](https://badwan95.github.io/reading-notes/class-12)
 | Read-13                      |
 | Read-14                      |
 | Read-15                      |
