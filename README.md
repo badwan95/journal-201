@@ -22,5 +22,5 @@
 | Read-11                      |[Assorted Topic](https://badwan95.github.io/reading-notes/class-11)
 | Read-12                      |[Docs for the HTML <canvas> Element & Chart.js](https://badwan95.github.io/reading-notes/class-12)
 | Read-13                      |[Local Storage](https://badwan95.github.io/reading-notes/class-13)
-| Read-14                      |
-| Read-15                      |
+| Read-14                      |[CSS Transforms, Transitions, and Animations](https://badwan95.github.io/reading-notes/class-14)
+| Read-14                      |[What Google Learned About Teams](https://badwan95.github.io/reading-notes/class-15)
